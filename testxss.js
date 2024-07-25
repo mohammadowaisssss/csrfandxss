@@ -12,7 +12,7 @@
   const postData = new URLSearchParams({
     utf8: '✓',
     authenticity_token: csrfToken,
-    'email_address[email]': 'abc@test.com'
+    'email_address[email]': 'abctacve@test.com'
   });
 
   // Make the POST request
